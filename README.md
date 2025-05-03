@@ -41,7 +41,9 @@ O relatório considera os seguintes campos principais:
 
 ## 📷 Visual do Dashboard
 
-*(Adicione aqui uma imagem ou print do dashboard exportado do Power BI para que visitantes vejam antes de abrir)*
+<img src="https://github.com/wesleyorrr/Dashboard_de_Vendas/blob/main/3.png" height="250" />
+<img src="https://github.com/wesleyorrr/Dashboard_de_Vendas/blob/main/2.png" height="250" />
+<img src="https://github.com/wesleyorrr/Dashboard_de_Vendas/blob/main/4.png" height="250" />
 
 ---
 
